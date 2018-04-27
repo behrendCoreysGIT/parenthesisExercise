@@ -1,1 +1,5 @@
 #todo fill this out
+language: cpp
+compiler: gcc
+script: make && make test
+#can add notifications section as desired
